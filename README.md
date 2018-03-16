@@ -1,4 +1,4 @@
-# Toposort
+# Topological Sort Visualizer
 A visualizer for Topological Sort using *Breadth-First Search* and *Depth-First Search* using **ASP .NET Framework MVC** and  **Javascript**
 
 This project used **D3.js** as the library for plotting the graph and make animations.
