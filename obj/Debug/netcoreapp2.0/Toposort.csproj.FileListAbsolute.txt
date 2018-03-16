@@ -1,0 +1,10 @@
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/bin/Debug/netcoreapp2.0/Toposort.deps.json
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/bin/Debug/netcoreapp2.0/Toposort.runtimeconfig.json
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/bin/Debug/netcoreapp2.0/Toposort.runtimeconfig.dev.json
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/bin/Debug/netcoreapp2.0/Toposort.dll
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/bin/Debug/netcoreapp2.0/Toposort.pdb
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/obj/Debug/netcoreapp2.0/Toposort.csproj.CoreCompileInputs.cache
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/obj/Debug/netcoreapp2.0/Toposort.AssemblyInfoInputs.cache
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/obj/Debug/netcoreapp2.0/Toposort.AssemblyInfo.cs
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/obj/Debug/netcoreapp2.0/Toposort.dll
+/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Toposort/obj/Debug/netcoreapp2.0/Toposort.pdb
