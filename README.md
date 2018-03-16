@@ -7,6 +7,9 @@ Refer to [this page](http://d3js.org) for documentations and examples
 
 
 **Created by :**
-- Adylan Roaffa Ilmy
-- Ahmad Fahmi P.
-- Eka 
+
+| Name | NIM |
+|--|--|
+| Adylan Roaffa Ilmy | 13516016 |
+| Ahmad Fahmi P. | |
+| Eka | |
